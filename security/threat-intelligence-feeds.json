@@ -201,7 +201,7 @@
       "format": "phishstats:1+"
     },
     {
-      "url": "https://dl.red.flag.domains/red.flag.domains_fr.txt",
+      "url": "https://dl.red.flag.domains/red.flag.domains.txt",
       "format": "domains"
     }
   ],
